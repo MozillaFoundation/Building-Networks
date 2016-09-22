@@ -29,5 +29,4 @@ Please be aware that many people are using Github for the first time, so be pati
 #Improving this process
 
 Ideas? Let us know: annmarie@mozillafoundation.org.
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
+
