@@ -28,7 +28,6 @@ Identify overlaps and opportunities with Women & Web Literacy Hub | ON TRACK?
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-
 [Mozilla Fellows Onboarding](https://public.etherpad-mozilla.org/p/mlnteamcallQ3#lineNumber=158) | Toronto, ON | Sep 12-15, 2016 | Co-Organizer
 
 #### LEARNING/TRAININGS/OTHER PROJECTS
